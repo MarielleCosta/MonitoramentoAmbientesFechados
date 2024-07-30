@@ -19,8 +19,8 @@
 DHT_Unified dht(DHTPIN, DHTTYPE);
 
 // WiFi
-const char *ssid = "LSI"; // Enter your Wi-Fi name
-const char *password = "PegasusLsI2515!";  // Enter Wi-Fi password
+const char *ssid = ""; // Enter your Wi-Fi name
+const char *password = "";  // Enter Wi-Fi password
 
 // MQTT Broker
 const char *mqtt_broker = "5c4d923ba33549faa5f72062b1fac92e.s1.eu.hivemq.cloud";
