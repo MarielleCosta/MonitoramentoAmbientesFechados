@@ -21,11 +21,10 @@ Este projeto foi desenvolvido com o objetivo de monitorar a temperatura, umidade
 </div>
 
 ## Arquitetura do Banco de Dados
-O banco de dados MySQL armazena os dados dos sensores em tabelas específicas para temperatura, umidade e luminosidade, permitindo consultas e visualizações eficientes.
+O banco de dados MySQL armazena os dados e os alarmes dos sensores em tabelas específicas para temperatura, umidade e luminosidade, permitindo consultas e visualizações eficientes.
 - Tabela temperatura: Armazena a data, hora e valor da temperatura (°C)
-- Tabela umidade: Armazena a data, hora e valor da umidade (g/m³)
-- Tabela luminosidade: Armazena a data, hora e valor da luminosidade (cd) 
-
-<div align="center">
-<img width="631" alt="image" src="https://github.com/user-attachments/assets/2dbeaac3-3add-4165-9774-29d22023cd42">
-</div>
+- Tabela alarmes de temperatura: Armazena a data, hora e alarme
+- Tabela humidade: Armazena a data, hora e valor da umidade (%)
+- Tabela alarmes de humidade: Armazena a data, hora e alarme
+- Tabela luminosidade: Armazena a data, hora e valor da luminosidade (%) 
+- Tabela alarmes de luminosidade: Armazena a data, hora e alarme
