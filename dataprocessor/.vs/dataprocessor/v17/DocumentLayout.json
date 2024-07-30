@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3F1B62-258B-42E6-99A2-59A1510C8E3C}|dataprocessor\\dataprocessor.csproj|c:\\users\\cmnascimento4\\documents\\atr\\dataprocessor\\dataprocessor\\services\\mysqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3F1B62-258B-42E6-99A2-59A1510C8E3C}|dataprocessor\\dataprocessor.csproj|solutionrelative:dataprocessor\\services\\mysqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3F1B62-258B-42E6-99A2-59A1510C8E3C}|dataprocessor\\dataprocessor.csproj|c:\\users\\cmnascimento4\\documents\\atr\\dataprocessor\\dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3F1B62-258B-42E6-99A2-59A1510C8E3C}|dataprocessor\\dataprocessor.csproj|solutionrelative:dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3F1B62-258B-42E6-99A2-59A1510C8E3C}|dataprocessor\\dataprocessor.csproj|C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\dataprocessor\\models\\limites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3F1B62-258B-42E6-99A2-59A1510C8E3C}|dataprocessor\\dataprocessor.csproj|solutionrelative:dataprocessor\\models\\limites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MySQLService.cs",
+              "DocumentMoniker": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\dataprocessor\\Services\\MySQLService.cs",
+              "RelativeDocumentMoniker": "dataprocessor\\Services\\MySQLService.cs",
+              "ToolTip": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\dataprocessor\\Services\\MySQLService.cs",
+              "RelativeToolTip": "dataprocessor\\Services\\MySQLService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAF0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:25:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Limites.cs",
+              "DocumentMoniker": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\dataprocessor\\Models\\Limites.cs",
+              "RelativeDocumentMoniker": "dataprocessor\\Models\\Limites.cs",
+              "ToolTip": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\dataprocessor\\Models\\Limites.cs",
+              "RelativeToolTip": "dataprocessor\\Models\\Limites.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAjwFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:32:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\dataprocessor\\Program.cs",
+              "RelativeDocumentMoniker": "dataprocessor\\Program.cs",
+              "ToolTip": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\dataprocessor\\Program.cs",
+              "RelativeToolTip": "dataprocessor\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwCoBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:47:09.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

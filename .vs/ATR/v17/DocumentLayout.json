@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cmnascimento4\\Documents\\ATR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{302FA167-02F5-4E8E-A316-54D976FA89A9}|dataprocessor\\dataprocessor.csproj|c:\\users\\cmnascimento4\\documents\\atr\\dataprocessor\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302FA167-02F5-4E8E-A316-54D976FA89A9}|dataprocessor\\dataprocessor.csproj|solutionrelative:dataprocessor\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302FA167-02F5-4E8E-A316-54D976FA89A9}|dataprocessor\\dataprocessor.csproj|c:\\users\\cmnascimento4\\documents\\atr\\dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302FA167-02F5-4E8E-A316-54D976FA89A9}|dataprocessor\\dataprocessor.csproj|solutionrelative:dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 239,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "dataprocessor\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\WeatherForecast.cs",
+              "RelativeToolTip": "dataprocessor\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:09:26.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\Program.cs",
+              "RelativeDocumentMoniker": "dataprocessor\\Program.cs",
+              "ToolTip": "C:\\Users\\cmnascimento4\\Documents\\ATR\\dataprocessor\\Program.cs",
+              "RelativeToolTip": "dataprocessor\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:08:23.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
