@@ -16,8 +16,9 @@ Este projeto foi desenvolvido com o objetivo de monitorar a temperatura, umidade
 - Docker: Utilizado para criar containers interligados, por meio de uma rede, para o DataProcessor, banco de dados MySQL e Grafana, garantindo um ambiente isolado e facilmente replicável.
 
 ## Arquitetura do Sistema
-<div align="center">
-<img width="423" alt="image" src="https://github.com/user-attachments/assets/28cf5534-54f2-4af8-9e2d-2123dd1ce063">
+<div align="center">!
+
+<img width="423" alt="image" src="[https://github.com/user-attachments/assets/28cf5534-54f2-4af8-9e2d-2123dd1ce063](https://github.com/user-attachments/assets/49da5b9e-fed2-4359-807a-eabc639774a3)">
 </div>
 
 ## Arquitetura do Banco de Dados
