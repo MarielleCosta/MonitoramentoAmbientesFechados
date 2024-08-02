@@ -30,3 +30,5 @@ O banco de dados MySQL armazena os dados e os alarmes dos sensores em tabelas es
 
 ## Orientação para execução do código
 Ao executar o docker-compose será criado um conteiner para o banco de dados (mysql) e para o grafana. Entretanto, para que o dataprocessor funcione corretamente é necessário que ele seja executado localmente na máquina. Portanto, o ideal é que o usuário possua .NET 8 instalado na máquina. 
+
+Os dashboards do grafana criados para esse projeto se encontram nos arquivos Alertas-1722263014843.json e Monitoramento de ambientes-1722263024046.json.
